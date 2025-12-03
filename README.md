@@ -89,7 +89,7 @@ Kalorinya tinggi atau rendah?
 Hasil ini membantu menilai apakah sereal secara keseluruhan sehat atau tidak.
 
 📋 Hasil Rata-rata Setiap Nutrisi:
---
+
 | Nutrisi  | Rata-rata      |
 | -------- | -------------- |
 | Calories | **106.6 kcal** |
@@ -195,7 +195,6 @@ Rekomendasi asupan potassium per sajian makanan umumnya ≥ 200 mg.
 Nilai 87 mg cukup rendah, menunjukkan sereal tidak berkontribusi banyak pada elektrolit/mineral ini.
 
 ⭐ Kesimpulan:
----
 Kalium rata-rata rendah, kurang mendukung kesehatan otot & tekanan darah.
 
 | Nutrisi         | Nilai Rata-rata | Penilaian               |
@@ -214,7 +213,7 @@ Kalium rata-rata rendah, kurang mendukung kesehatan otot & tekanan darah.
 🚦 Fungsi: Memfilter sereal berdasarkan kebutuhan kesehatan tertentu.
 
 ❤️ 1. Kolesterol Tinggi & Penyakit Jantung
-
+---
 🔍 Fokus utama: Lemak total & gula
 📌 Kriteria:
 
@@ -259,7 +258,7 @@ Orang dengan kolesterol tinggi memerlukan makanan yang rendah lemak dan minim gu
 Sereal-sereal ini cenderung sangat rendah lemak, dan banyak di antaranya berbasis whole grain—kombinasi ideal untuk menjaga kesehatan jantung.
 
 🌾 2. Sembelit & Gangguan Pencernaan
-
+---
 🔍 Fokus utama: Serat (Fiber)
 📌 Kriteria:
 
@@ -282,7 +281,7 @@ Masalah pencernaan seperti sembelit membutuhkan serat tinggi, terutama dari gand
 Kelompok ini adalah juara serat—beberapa bahkan mencapai serat level “bran cereal” yang terkenal sangat membantu kesehatan usus.
 
 🫀 3. Hipertensi / Darah Tinggi
-
+---
 🔍 Fokus utama: Sodium
 📌 Kriteria:
 
@@ -327,7 +326,7 @@ Orang dengan tekanan darah tinggi harus membatasi natrium. Daftar ini berisi ser
 Menariknya, banyak sereal manis yang rendah sodium, sehingga masih aman untuk hipertensi meskipun tidak semua cocok untuk penderita diabetes.
 
 ⚖️ 4. Kelebihan Berat Badan / Obesitas
-
+---
 🔍 Fokus utama: Kalori, gula, serat
 📌 Kriteria:
 
@@ -360,7 +359,7 @@ Untuk menurunkan berat badan, dibutuhkan sereal rendah kalori, minim gula, dan c
 Kombinasi sereal whole-grain + rendah gula ini sangat efektif untuk diet. Banyak juga yang overlap dengan kategori jantung sehat.
 
 🍬 5. Diabetes
-
+---
 🔍 Fokus utama: Gula, karbohidrat cepat, serat
 📌 Kriteria:
 
@@ -385,7 +384,7 @@ Nanti setelah kita punya seluruh nutrisi, kita bisa melihat apakah ada kandidat 
 Dengan filter ini, kita bisa membuat klasifikasi sederhana sereal mana yang aman & disarankan.
 
 💡 Insight Penting yang Diperoleh
-
+---
 ✨ 1. Profil sereal cenderung “ringan”
 Secara keseluruhan, sereal dalam dataset memiliki kalori, lemak, dan protein yang relatif rendah. Ini membuatnya cocok sebagai sarapan cepat, tapi kurang memberikan rasa kenyang jangka panjang.
 
@@ -406,7 +405,7 @@ Row Filter membantu mengidentifikasi sereal mana yang aman untuk kolesterol, hip
 Karena dataset sudah bersih dan stabil, Row Filter mampu mengidentifikasi dengan jelas sereal mana yang aman untuk diabetes, hipertensi, atau kolesterol, sehingga pengambilan keputusan lebih akurat.
 
 🏁 Kesimpulan
-
+---
 🎯 Workflow KNIME berhasil melakukan:
 
 Import & pembersihan data
