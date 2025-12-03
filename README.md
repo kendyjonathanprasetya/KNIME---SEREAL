@@ -1,7 +1,7 @@
 📘 Laporan Analisis Dataset Nutrisi Sereal (via KNIME)
 ---
 🥣 Pendahuluan
-
+---
 Dataset berisi berbagai jenis sereal beserta kandungan nutrisinya. Tujuan analisis ini adalah:
 
 Membersihkan data (outlier & missing value)
@@ -13,9 +13,9 @@ Menghitung rata-rata nilai nutrisi
 Mengidentifikasi sereal aman untuk kondisi kesehatan tertentu
 
 Workflow KNIME digunakan karena alurnya mudah divisualisasikan dan modular.
----
-🧩 Step-by-Step Workflow & Fungsi Node
 
+🧩 Step-by-Step Workflow & Fungsi Node
+---
 Berikut ringkasan setiap node dalam pipeline KNIME:
 
 1️⃣ CSV Reader
@@ -75,9 +75,9 @@ Tujuan: hanya untuk melihat penyebaran & pola dasar
 6️⃣ GroupBy (Mean Aggregation)
 
 🔎 Fungsi: Menghitung rata-rata semua nutrisi.
----
-📌 Insight yang didapat:
 
+📌 Insight yang didapat:
+---
 Mengetahui apakah secara umum:
 
 Kandungan gula sereal cenderung tinggi?
@@ -89,7 +89,7 @@ Kalorinya tinggi atau rendah?
 Hasil ini membantu menilai apakah sereal secara keseluruhan sehat atau tidak.
 
 📋 Hasil Rata-rata Setiap Nutrisi:
-
+--
 | Nutrisi  | Rata-rata      |
 | -------- | -------------- |
 | Calories | **106.6 kcal** |
@@ -195,6 +195,7 @@ Rekomendasi asupan potassium per sajian makanan umumnya ≥ 200 mg.
 Nilai 87 mg cukup rendah, menunjukkan sereal tidak berkontribusi banyak pada elektrolit/mineral ini.
 
 ⭐ Kesimpulan:
+---
 Kalium rata-rata rendah, kurang mendukung kesehatan otot & tekanan darah.
 
 | Nutrisi         | Nilai Rata-rata | Penilaian               |
@@ -209,7 +210,7 @@ Kalium rata-rata rendah, kurang mendukung kesehatan otot & tekanan darah.
 | **Kalium**      | 87.4 mg         | ❌ Rendah                |
 
 7️⃣ Row Filter (Kriteria Kesehatan)
-
+---
 🚦 Fungsi: Memfilter sereal berdasarkan kebutuhan kesehatan tertentu.
 
 ❤️ 1. Kolesterol Tinggi & Penyakit Jantung
