@@ -90,6 +90,7 @@ Hasil ini membantu menilai apakah sereal secara keseluruhan sehat atau tidak.
 
 📋 Hasil Rata-rata Setiap Nutrisi:
 
+
 | Nutrisi  | Rata-rata      |
 | -------- | -------------- |
 | Calories | **106.6 kcal** |
@@ -105,50 +106,82 @@ Hasil ini membantu menilai apakah sereal secara keseluruhan sehat atau tidak.
 
 📌 Penilaian: Moderat–Rendah
 
-Rata-rata sereal berada di sekitar 100–120 kcal/serving, sehingga nilai 106.6 kcal tergolong cukup rendah.
+Berdasarkan sumber ini:
+Rekomendasi sarapan sehat menurut Academy of Nutrition and Dietetics berada di kisaran 100–300 kcal, dan sereal “rendah kalori” biasanya berada ≤ 120 kcal per porsi.
 
-Aman untuk diet dan cocok untuk sarapan ringan.
+👉 Karena rata-rata dataset adalah 106.6 kcal, maka:
 
-Tidak terlalu tinggi untuk penderita penyakit metabolik.
+Masuk kategori rendah kalori
+
+Aman untuk diet
+
+Tidak berlebihan untuk penderita diabetes atau penyakit metabolik
 
 ⭐ Kesimpulan:
-Kalori sereal secara keseluruhan cukup baik, tidak berlebihan.
+Kalori sereal secara keseluruhan cukup baik dan tidak berlebihan.
 
 🔍 2. Sugar — 7.02 g
 
 📌 Penilaian: Cenderung Tinggi
 
-Ambang “rendah gula” menurut prinsip nutrisi adalah ≤ 6g.
+Berdasarkan sumber ini:
+WHO dan American Heart Association (AHA) merekomendasikan:
 
-Dengan nilai rata-rata 7g, berarti sebagian besar sereal cukup manis.
+Batas maksimum gula tambahan untuk makanan rendah gula adalah ≤ 5 g per sajian.
 
-Tidak ideal untuk penderita diabetes, walaupun masih aman untuk orang sehat jika dikonsumsi dengan moderasi.
+Di atas 6 g biasanya dianggap moderately high sugar.
+
+👉 Karena rata-rata dataset adalah 7.02 g, maka:
+
+Rata-rata sereal lebih tinggi dari batas “rendah gula”
+
+Banyak sereal komersial memang memiliki tambahan gula
+
+Tidak ideal untuk diabetes atau diet rendah gula
 
 ⭐ Kesimpulan:
-Gula rata-rata agak tinggi sehingga konsumsi perlu diperhatikan.
+Gula rata-rata agak tinggi, sehingga konsumsinya perlu diperhatikan terutama untuk penderita diabetes.
 
 🔍 3. Sodium — 159.6 mg
 
 📌 Penilaian: Menengah–Sedikit Tinggi
 
-Batas makanan low sodium adalah ≤ 140 mg.
+Berdasarkan sumber ini:
+FDA menyatakan makanan dianggap low-sodium apabila memiliki:
 
-Dengan 159 mg, sereal rata-rata melewati batas low sodium.
+≤ 140 mg sodium per porsi.
 
-Perlu perhatian bagi penderita hipertensi.
+👉 Dengan rata-rata 159.6 mg, berarti:
+
+Rata-rata sereal melewati batas low sodium
+
+Cenderung tinggi bagi penderita tekanan darah tinggi
+
+Tidak semua sereal cocok untuk hipertensi
 
 ⭐ Kesimpulan:
-Sodium cenderung sedikit tinggi, belum termasuk kategori aman untuk tekanan darah tinggi.
+Sodium rata-rata sedikit tinggi dan belum masuk kategori aman untuk penderita hipertensi.
 
 🔍 4. Fiber — 1.793 g
 
 📌 Penilaian: Rendah
 
-Makanan tinggi serat biasanya memiliki ≥ 3g.
+Berdasarkan sumber ini:
+Kategori makanan:
 
-Rata-rata di dataset hanya 1.8g, artinya mayoritas sereal kurang serat.
+High-fiber food → ≥ 5 g
 
-Tidak optimal untuk pencernaan & diet kenyang lebih lama.
+Good source of fiber → ≥ 3 g
+
+Poor source → < 3 g
+
+👉 Dengan rata-rata hanya 1.8 g, maka:
+
+Mayoritas sereal adalah poor source of fiber
+
+Tidak optimal untuk pencernaan
+
+Tidak membantu rasa kenyang lama (penting untuk diet)
 
 ⭐ Kesimpulan:
 Serat rata-rata terlalu rendah dan tidak ideal untuk diet atau kesehatan usus.
@@ -157,31 +190,56 @@ Serat rata-rata terlalu rendah dan tidak ideal untuk diet atau kesehatan usus.
 
 📌 Penilaian: Rendah
 
-Sarapan ideal seharusnya memiliki 4–8g protein.
+Berdasarkan sumber ini:
+Ahli gizi menyarankan sarapan mengandung 4–8 g protein agar lebih mengenyangkan dan stabil untuk gula darah.
 
-Nilai 2.4g berarti sereal cenderung tidak mengenyangkan dan memerlukan tambahan protein (yogurt, susu, kacang).
+👉 Karena rata-rata hanya 2.4 g, berarti:
+
+Sereal kurang mengenyangkan bila dimakan sendirian
+
+Perlu tambahan protein (yogurt, susu, telur, almond)
+
+Tidak cukup baik untuk kebutuhan sarapan seimbang
 
 ⭐ Kesimpulan:
-Protein rata-rata kurang untuk kebutuhan sarapan yang seimbang.
+Protein rata-rata kurang, sehingga sereal perlu dikombinasikan dengan sumber protein lain.
 
 🔍 6. Carbohydrates — 14.8 g
 
 📌 Penilaian: Moderat
 
-Karbohidrat kisaran 12–20g adalah umum untuk sereal.
+Berdasarkan sumber ini:
+Sereal breakfast umumnya mengandung 12–20 g karbohidrat per porsi.
 
-Nilai 14.8g termasuk normal dan tidak terlalu tinggi.
+👉 Nilai 14.8 g berarti:
+
+Masuk kategori normal
+
+Tidak berlebihan
+
+Masih aman untuk diabetes asal gula dan serat ikut memenuhi syarat
 
 ⭐ Kesimpulan:
-Karbohidrat berada pada batas normal.
+Karbohidrat rata-rata normal, tidak terlalu tinggi.
 
 🔍 7. Fat — 1.013 g
 
 📌 Penilaian: Sangat Rendah
 
-Sebagian besar sereal memang low-fat.
+Berdasarkan sumber ini:
+Produk low-fat umumnya memiliki:
 
-Nilai 1g tergolong sangat rendah, baik untuk penderita kolesterol.
+≤ 3 g fat per porsi
+
+Sereal whole-grain biasanya memiliki 0–2 g fat
+
+👉 Karena rata-rata 1 g, maka:
+
+Sangat rendah lemak
+
+Ideal untuk penderita kolesterol tinggi
+
+Mudah dicerna
 
 ⭐ Kesimpulan:
 Lemak rata-rata sangat baik dan aman untuk penderita kolesterol tinggi.
@@ -190,11 +248,23 @@ Lemak rata-rata sangat baik dan aman untuk penderita kolesterol tinggi.
 
 📌 Penilaian: Rendah
 
-Rekomendasi asupan potassium per sajian makanan umumnya ≥ 200 mg.
+Berdasarkan sumber ini:
+FDA menyatakan makanan layak disebut “sumber potassium baik” apabila memiliki:
 
-Nilai 87 mg cukup rendah, menunjukkan sereal tidak berkontribusi banyak pada elektrolit/mineral ini.
+≥ 200 mg per porsi
+
+👉 Nilai rata-rata 87 mg menunjukkan bahwa:
+
+Sereal tidak menyumbang banyak mineral potassium
+
+Tidak cukup untuk mendukung fungsi otot & keseimbangan elektrolit
 
 ⭐ Kesimpulan:
+Potassium rata-rata rendah, sehingga sereal bukan sumber mineral yang signifikan.
+
+
+
+📌 Ringkasan:
 Kalium rata-rata rendah, kurang mendukung kesehatan otot & tekanan darah.
 
 | Nutrisi         | Nilai Rata-rata | Penilaian               |
@@ -208,12 +278,10 @@ Kalium rata-rata rendah, kurang mendukung kesehatan otot & tekanan darah.
 | **Lemak**       | 1.013 g         | ✔️ Sangat rendah (baik) |
 | **Kalium**      | 87.4 mg         | ❌ Rendah                |
 
-7️⃣ Row Filter (Kriteria Kesehatan)
+7️⃣ Row Filter (Kriteria Kesehatan) Berserta Visualisasi
 ---
 🚦 Fungsi: Memfilter sereal berdasarkan kebutuhan kesehatan tertentu.
-
 ❤️ 1. Kolesterol Tinggi & Penyakit Jantung
----
 🔍 Fokus utama: Lemak total & gula
 📌 Kriteria:
 
@@ -221,112 +289,116 @@ Fat ≤ 1 g
 
 Sugar ≤ 5 g
 
-Orang dengan kolesterol tinggi memerlukan makanan yang rendah lemak dan minim gula untuk menjaga kestabilan LDL serta kesehatan jantung. Daftar berikut berisi sereal yang aman dan ramah jantung, karena kandungan lemak & gulanya sangat terkendali.
+Orang dengan kolesterol tinggi memerlukan makanan rendah lemak dan rendah gula agar kadar LDL tetap terkendali. Karena itu, batasan lemak ≤ 1 g dan gula ≤ 5 g dipakai sebagai patokan untuk memilih sereal yang aman bagi kesehatan jantung.
 
-✅ Sereal Aman untuk Kolesterol Tinggi
-
-| **No.** | **Nama Sereal**               |
-| ------- | ----------------------------- |
-| 1       | Wheaties                      |
-| 2       | Wheat Chex                    |
-| 3       | Triples                       |
-| 4       | Total Whole Grain             |
-| 5       | Total Corn Flakes             |
-| 6       | Strawberry Fruit Wheats       |
-| 7       | Special K                     |
-| 8       | Shredded Wheat (semua varian) |
-| 9       | Rice Krispies                 |
-| 10      | Rice Chex                     |
-| 11      | Puffed Wheat                  |
-| 12      | Puffed Rice                   |
-| 13      | Product 19                    |
-| 14      | Nutri-Grain Wheat             |
-| 15      | Maypo                         |
-| 16      | Kix                           |
-| 17      | Grape-Nuts Flakes             |
-| 18      | Grape-Nuts                    |
-| 19      | Double Chex                   |
-| 20      | Crispix                       |
-| 21      | Cream of Wheat (Quick)        |
-| 22      | Corn Flakes                   |
-| 23      | Corn Chex                     |
-| 24      | Bran Flakes                   |
-| 25      | All-Bran                      |
+❤️ Rekomendasi Sereal Aman untuk Kolesterol Tinggi - Visualisasi
+<img width="1392" height="349" alt="image" src="https://github.com/user-attachments/assets/fbf90438-a111-433e-835d-b53efc1cfc5c" />
 
 
-⭐ Insight:
-Sereal-sereal ini cenderung sangat rendah lemak, dan banyak di antaranya berbasis whole grain—kombinasi ideal untuk menjaga kesehatan jantung.
+| No | Nama Sereal                   |
+| -- | ----------------------------- |
+| 1  | Wheaties                      |
+| 2  | Wheat Chex                    |
+| 3  | Triples                       |
+| 4  | Total Whole Grain             |
+| 5  | Total Corn Flakes             |
+| 6  | Strawberry Fruit Wheats       |
+| 7  | Special K                     |
+| 8  | Shredded Wheat (semua varian) |
+| 9  | Rice Krispies                 |
+| 10 | Rice Chex                     |
+| 11 | Puffed Wheat                  |
+| 12 | Puffed Rice                   |
+| 13 | Product 19                    |
+| 14 | Nutri-Grain Wheat             |
+| 15 | Maypo                         |
+| 16 | Kix                           |
+| 17 | Grape-Nuts Flakes             |
+| 18 | Grape-Nuts                    |
+| 19 | Double Chex                   |
+| 20 | Crispix                       |
+| 21 | Cream of Wheat (Quick)        |
+| 22 | Corn Flakes                   |
+| 23 | Corn Chex                     |
+| 24 | Bran Flakes                   |
+| 25 | All-Bran                      |
+
+
+⭐ Insight Singkat:
+Sereal-sereal ini umumnya sangat rendah lemak dan banyak yang berbasis whole grain. Kombinasi tersebut sangat efektif untuk menjaga kestabilan LDL dan mendukung kesehatan kardiovaskular secara keseluruhan.
 
 🌾 2. Sembelit & Gangguan Pencernaan
----
-🔍 Fokus utama: Serat (Fiber)
+🔍 Fokus utama: Serat
 📌 Kriteria:
 
 Fiber ≥ 5 g
 
-Masalah pencernaan seperti sembelit membutuhkan serat tinggi, terutama dari gandum utuh. Sereal-sereal berikut memenuhi kriteria serat tinggi dan sangat membantu melancarkan sistem pencernaan.
+Serat tinggi membantu meningkatkan pergerakan usus dan melancarkan pencernaan. Karena itu, batas minimal 5 g serat dipilih sebagai standar untuk menentukan sereal yang benar-benar efektif melawan sembelit.
 
-✅ Sereal Tinggi Serat untuk Pencernaan
-
-| **No.** | **Nama Sereal**                       |
-| ------- | ------------------------------------- |
-| 1       | Bran Flakes                           |
-| 2       | Fruit & Fibre (Dates, Walnuts & Oats) |
-| 3       | Fruitful Bran                         |
-| 4       | Post Nat. Raisin Bran                 |
-| 5       | Raisin Bran                           |
+🌾 Rekomendasi Sereal Tinggi Serat untuk Pencernaan - Visualisasi
+<img width="1395" height="349" alt="image" src="https://github.com/user-attachments/assets/04e706b0-4388-48fa-8e58-794a10e5601a" />
 
 
-⭐ Insight:
-Kelompok ini adalah juara serat—beberapa bahkan mencapai serat level “bran cereal” yang terkenal sangat membantu kesehatan usus.
+| No | Nama Sereal                           |
+| -- | ------------------------------------- |
+| 1  | Bran Flakes                           |
+| 2  | Fruit & Fibre (Dates, Walnuts & Oats) |
+| 3  | Fruitful Bran                         |
+| 4  | Post Nat. Raisin Bran                 |
+| 5  | Raisin Bran                           |
+
+
+⭐ Insight Singkat:
+Sereal-sereal ini berada dalam kategori “very high fiber cereals” yang secara klinis dikenal membantu meningkatkan kesehatan usus dan mengatasi sembelit secara konsisten.
 
 🫀 3. Hipertensi / Darah Tinggi
----
 🔍 Fokus utama: Sodium
 📌 Kriteria:
 
 Sodium ≤ 140 mg
+<img width="433" height="407" alt="image" src="https://github.com/user-attachments/assets/7024d3ed-5f43-4d5d-9670-4a78117e5029" />
 
-Orang dengan tekanan darah tinggi harus membatasi natrium. Daftar ini berisi sereal yang masuk kategori “low sodium food”, sehingga aman untuk tekanan darah.
+Menurut pedoman nutrisi, makanan dikategorikan “low sodium” apabila mengandung ≤ 140 mg natrium per porsi. Karena itu, angka ini dipakai sebagai batas untuk memilih sereal yang aman bagi penderita hipertensi.
 
-✅ Sereal Low-Sodium untuk Hipertensi
-
-| **No.** | **Nama Sereal**                   |
-| ------- | --------------------------------- |
-| 1       | 100% Bran                         |
-| 2       | 100% Natural Bran                 |
-| 3       | All-Bran with Extra Fiber         |
-| 4       | Apple Jacks                       |
-| 5       | Clusters                          |
-| 6       | Corn Pops                         |
-| 7       | Cracklin' Oat Bran                |
-| 8       | Cream of Wheat (Quick)            |
-| 9       | Crispy Wheat & Raisins            |
-| 10      | Froot Loops                       |
-| 11      | Frosted Mini-Wheats               |
-| 12      | Fruity Pebbles                    |
-| 13      | Golden Crisp                      |
-| 14      | Grape-Nuts Flakes                 |
-| 15      | Great Grains Pecan                |
-| 16      | Maypo                             |
-| 17      | Muesli (Raisins, Dates & Almonds) |
-| 18      | Puffed Rice                       |
-| 19      | Puffed Wheat                      |
-| 20      | Quaker Oat Squares                |
-| 21      | Quaker Oatmeal                    |
-| 22      | Raisin Nut Bran                   |
-| 23      | Raisin Squares                    |
-| 24      | Shredded Wheat (semua varian)     |
-| 25      | Smacks                            |
-| 26      | Strawberry Fruit Wheats           |
-| 27      | Trix                              |
+🫀 Rekomendasi Sereal Low-Sodium untuk Hipertensi - Visualisasi
+<img width="1391" height="349" alt="image" src="https://github.com/user-attachments/assets/b09ea343-8195-40ca-a294-72794a4b2d85" />
 
 
-⭐ Insight:
-Menariknya, banyak sereal manis yang rendah sodium, sehingga masih aman untuk hipertensi meskipun tidak semua cocok untuk penderita diabetes.
+| No | Nama Sereal                       |
+| -- | --------------------------------- |
+| 1  | 100% Bran                         |
+| 2  | 100% Natural Bran                 |
+| 3  | All-Bran with Extra Fiber         |
+| 4  | Apple Jacks                       |
+| 5  | Clusters                          |
+| 6  | Corn Pops                         |
+| 7  | Cracklin' Oat Bran                |
+| 8  | Cream of Wheat (Quick)            |
+| 9  | Crispy Wheat & Raisins            |
+| 10 | Froot Loops                       |
+| 11 | Frosted Mini-Wheats               |
+| 12 | Fruity Pebbles                    |
+| 13 | Golden Crisp                      |
+| 14 | Grape-Nuts Flakes                 |
+| 15 | Great Grains Pecan                |
+| 16 | Maypo                             |
+| 17 | Muesli (Raisins, Dates & Almonds) |
+| 18 | Puffed Rice                       |
+| 19 | Puffed Wheat                      |
+| 20 | Quaker Oat Squares                |
+| 21 | Quaker Oatmeal                    |
+| 22 | Raisin Nut Bran                   |
+| 23 | Raisin Squares                    |
+| 24 | Shredded Wheat (semua varian)     |
+| 25 | Smacks                            |
+| 26 | Strawberry Fruit Wheats           |
+| 27 | Trix                              |
+
+
+⭐ Insight Singkat:
+Menariknya, banyak sereal manis tetap rendah sodium. Namun meskipun aman untuk tekanan darah, tidak semuanya cocok untuk kondisi lain seperti diabetes, jadi pemilihan tetap perlu disesuaikan.
 
 ⚖️ 4. Kelebihan Berat Badan / Obesitas
----
 🔍 Fokus utama: Kalori, gula, serat
 📌 Kriteria:
 
@@ -336,31 +408,33 @@ Gula ≤ 5 g
 
 Serat ≥ 3 g
 
-Untuk menurunkan berat badan, dibutuhkan sereal rendah kalori, minim gula, dan cukup serat agar kenyang lebih lama.
+Untuk menurunkan berat badan, makanan rendah kalori dan rendah gula tetapi tetap tinggi serat sangat penting. Standar ini memastikan sereal mengenyangkan tanpa memberikan beban kalori berlebih.
 
-✅ Sereal Aman untuk Diet / Obesitas
-
-| **No.** | **Nama Sereal**             |
-| ------- | --------------------------- |
-| 1       | Bran Flakes                 |
-| 2       | Grape-Nuts Flakes           |
-| 3       | Grape-Nuts                  |
-| 4       | Nutri-Grain Wheat           |
-| 5       | Shredded Wheat              |
-| 6       | Shredded Wheat ’n’ Bran     |
-| 7       | Shredded Wheat (spoon size) |
-| 8       | Strawberry Fruit Wheats     |
-| 9       | Total Whole Grain           |
-| 10      | Wheat Chex                  |
-| 11      | Wheaties                    |
+⚖️ Rekomendasi Sereal Aman untuk Diet / Obesitas - Visualisasi
+<img width="1391" height="346" alt="image" src="https://github.com/user-attachments/assets/1710153e-dbc3-45c2-be56-269e6f833d97" />
 
 
-⭐ Insight:
-Kombinasi sereal whole-grain + rendah gula ini sangat efektif untuk diet. Banyak juga yang overlap dengan kategori jantung sehat.
+| No | Nama Sereal                 |
+| -- | --------------------------- |
+| 1  | Bran Flakes                 |
+| 2  | Grape-Nuts Flakes           |
+| 3  | Grape-Nuts                  |
+| 4  | Nutri-Grain Wheat           |
+| 5  | Shredded Wheat              |
+| 6  | Shredded Wheat ’n’ Bran     |
+| 7  | Shredded Wheat (spoon size) |
+| 8  | Strawberry Fruit Wheats     |
+| 9  | Total Whole Grain           |
+| 10 | Wheat Chex                  |
+| 11 | Wheaties                    |
+
+
+
+⭐ Insight Singkat:
+Ini adalah kombinasi ideal: rendah kalori, rendah gula, dan cukup serat untuk kenyang lebih lama. Banyak sereal di kategori ini juga cocok untuk jantung dan metabolisme.
 
 🍬 5. Diabetes
----
-🔍 Fokus utama: Gula, karbohidrat cepat, serat
+🔍 Fokus utama: Gula, karbo cepat, serat
 📌 Kriteria:
 
 Sugar ≤ 5 g
@@ -369,17 +443,19 @@ Carbo ≤ 30 g
 
 Fiber ≥ 5 g
 
-Diabetes membutuhkan makanan yang minim indeks glikemik. Syarat serat tinggi sangat penting untuk memperlambat penyerapan gula.
+Kriteria ini dibuat untuk memastikan sereal tidak menyebabkan lonjakan gula darah. Serat yang tinggi membantu memperlambat penyerapan glukosa, sedangkan batas gula & karbo mencegah kenaikan gula darah yang cepat.
 
-✅ Sereal Aman untuk Diabetes
+🍬 Rekomendasi Sereal Aman untuk Diabetes - Visualisasi
+<img width="1388" height="346" alt="image" src="https://github.com/user-attachments/assets/133691d6-b84a-4be6-a5b0-83c0978f9058" />
 
-| **No.** | **Nama Sereal** |
-| ------- | --------------- |
-| 1       | Bran Flakes     |
 
-⭐ Insight:
-Hanya 1 sereal yang lolos semua kriteria ketat diabetes (rendah gula, rendah karbo, tinggi serat).
-Nanti setelah kita punya seluruh nutrisi, kita bisa melihat apakah ada kandidat lain yang “hampir lolos”.
+| No | Nama Sereal |
+| -- | ----------- |
+| 1  | Bran Flakes |
+
+
+⭐ Insight Singkat:
+Hanya satu sereal yang memenuhi semua batas ketat untuk diabetes. Namun, setelah data nutrisi lengkap tersedia, mungkin ada kandidat lain yang hampir lolos dan cocok untuk dikonsumsi secara moderat.
 
 Dengan filter ini, kita bisa membuat klasifikasi sederhana sereal mana yang aman & disarankan.
 
