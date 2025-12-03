@@ -19,7 +19,7 @@ Workflow KNIME digunakan karena alurnya mudah divisualisasikan dan modular.
 Berikut ringkasan setiap node dalam pipeline KNIME:
 
 1️⃣ CSV Reader
-
+---
 📥 Fungsi: Membaca file DATA CSV SEREAL.csv.
 
 📌 Apa yang dilakukan:
@@ -27,7 +27,7 @@ Berikut ringkasan setiap node dalam pipeline KNIME:
 Mengimpor seluruh dataset nutrisi sereal ke dalam workflow.
 
 2️⃣ Column Filter
-
+---
 🧹 Fungsi: Menghapus kolom yang tidak dibutuhkan.
 
 📌 Apa yang dilakukan:
@@ -37,7 +37,7 @@ Menghilangkan kolom non-esensial (misalnya ID, catatan teks, dll)
 Menyisakan hanya kolom nutrisi seperti calories, fat, sugar, fiber, sodium, dll.
 
 3️⃣ Numeric Outliers
-
+---
 📊 Fungsi: Mendeteksi nilai outlier pada kolom numerik.
 
 📌 Apa yang dilakukan:
@@ -47,7 +47,7 @@ Menandai data nutrisi yang terlalu ekstrem (misalnya sodium sangat tinggi).
 Output diteruskan ke node berikut untuk diperbaiki.
 
 4️⃣ Missing Value
-
+---
 🛠️ Fungsi: Mengatasi missing value dan mengganti outlier dengan mean.
 
 📌 Apa yang dilakukan:
@@ -59,7 +59,7 @@ Mengganti nilai outlier (ditandai sebelumnya) menjadi mean juga.
 Data jadi rapi, bersih, dan siap dianalisis.
 
 5️⃣ Visualisasi Nutrisi (Banyak Node Chart/Plot)
-
+---
 📈 Fungsi: Memberikan gambaran distribusi tiap nutrisi.
 
 📌 Visualisasi mencakup:
@@ -73,7 +73,7 @@ Tujuan: hanya untuk melihat penyebaran & pola dasar
 ⚠️ Karena ini hanya eksplorasi awal, bagian ini dipersingkat dalam laporan.
 
 6️⃣ GroupBy (Mean Aggregation)
-
+---
 🔎 Fungsi: Menghitung rata-rata semua nutrisi.
 
 📌 Insight yang didapat:
